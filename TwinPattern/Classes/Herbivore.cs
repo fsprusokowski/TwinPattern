@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TwinPattern
+﻿namespace TwinPattern
 {
     public abstract class Herbivore
     {
